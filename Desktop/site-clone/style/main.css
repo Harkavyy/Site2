@@ -1,0 +1,156 @@
+body{
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2;
+    color: #1c1c1c;
+    background: #fff;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin: 0;
+    width: 1000px;
+    height: 200px;
+}
+.top{
+    width: 563px;
+    height: 80px;
+    padding: 24px;
+}
+.global-1{
+    display: flex;
+    flex-direction: row;
+}
+.global-all{
+display: flex;
+flex-direction: row;
+}
+.logo1{
+    width: 80px;
+    height: 80px;
+    margin-left: 134px;
+    margin-top: 30px;
+}
+h1{
+    margin-left: 38px;
+    margin-top: 27px;
+}
+.title-top{
+display: flex;
+flex-wrap: wrap;
+flex-direction:column;
+}
+.top-name{
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 1200px;
+    height: 66px;
+    border-bottom: 1px solid grey;
+    padding: 0 1.5rem;
+}
+.title-box-site{
+    margin-left: 68px;
+    margin-top: -9px;
+    margin-bottom: 15px;
+
+}
+.box-site{
+    width: 137px;
+    height: 36px;
+    border-radius: 10% ;
+    box-sizing: border-box;
+    background-color: rgb(252, 245, 245);
+    align-items: center;
+    display: flex;
+    font-family: Robotto, Arial , sans-serif;
+    color: black;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    justify-content: center;
+   padding-bottom: 15px;
+   padding-left: 15px;
+    padding-right: 15px;
+     padding-top: 0px;
+     margin-right: 7px;
+}
+.box-quesion{
+width: 169px;
+height: 36px;
+border-radius: 10%;
+box-sizing: border-box;
+background-color: rgb(252, 245, 245);
+align-items: center;
+display: flex;
+font-family: Roboto, Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+justify-content: center;
+color: black;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 0px;
+}
+span{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+color: black;
+}
+.title-text-top{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.title-text{
+white-space: normal;
+word-break: break-word;
+word-wrap: break-word;
+font-size: 0.9rem;
+line-height: 1.5;
+color: rgba(0, 0, 0, .5);
+height: 500px;
+width: 616px;
+margin-left: 38px;
+margin-top: -3px;
+}
+.podrobnee{   
+font-family: Lato, Arial, sans-serif;
+font-weight: inherit;
+line-height: 1.5;
+color: inherit;
+margin-top: -347px;
+margin-left: 38px;
+
+}
+.box-text{
+display: block;
+font-size: 0.9rem;
+line-height: 1.5;
+color: rgba(28, 28, 28, .5);
+letter-spacing: normal;
+width: 110px;
+}
+
+.box-numeric{
+font-size: 1.4rem;
+line-height: 1.35;
+font-weight: 700;
+color: #1c1c1c;
+}
+.box-left{
+    display: flex;
+    flex-direction: column;
+    justify-items: baseline;
+    margin-left: 75px;
+    margin-top: 55px;
+}
+.box-2{
+    margin-top: 20px;
+}
+.box-3 {
+    margin-top: 22px;
+}
